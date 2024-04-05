@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Preface"
-author: Bernardo
+author: berni
 categories: [ Posts, Short essays ]
 image: assets/images/preface_image.jpg
 ---
@@ -46,4 +46,4 @@ That being said, I am also aware that some people question the very notion of �
 
 Like I said, this blog will combine strange ideas which at times may even feel like an awkward fit. I expect to miss on a lot of connections, and to hit couple (hopefully more!) of insights that shine a light on these very strange times we live in. If you’re curious about modern ideas that have taken over and continue to take over society, and you have an intuition that these might come from a strange place outside our field of view, from a spiritual wilderness and perhaps even from trans-personal intelligences amongst our midst, I hope that you’ll find some of this content interesting and thought-provoking.
 
-<img src="assets/images/preface_image.jpg" style="width: 50%;" alt="Preface Image">
+<img src="assets/images/preface_image.jpg" style="width: 50%;" alt="Angel of the Wilderness icon showing St John the Forerunner (Maryhill Museum).">
