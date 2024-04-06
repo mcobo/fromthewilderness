@@ -3,7 +3,7 @@ layout: post
 author: berni
 title:  "Contagion, time and space"
 categories: [ Posts, Short essay ]
-image: assets/images/time_space_image.jpg
+image: assets/images/time_space_image.jpeg
 ---
 
 > It has to start somewhere, it has to start sometime
@@ -18,4 +18,4 @@ One last point worth pondering comes from understanding infectious agents, where
 
 The state of our minds and souls at this current time and place may define what spiritual demons from the wilderness will take a hold of us in the future. Makes you wonder, what state where we in back when the demons that currently plague us appeared? How did we let them?
 
-<img src="../assets/images/time_space_image.jpg" style="width: 50%;" alt="Icon of St. Anthony the Great, harassed by demons in the desert.">
+<img src="../assets/images/time_space_image.jpeg" style="width: 50%;" alt="Icon of St. Anthony the Great, harassed by demons in the desert.">
